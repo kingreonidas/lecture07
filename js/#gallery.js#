@@ -7,6 +7,7 @@ var photoList = [
 	  {src: "img/201008.png", title: "もう1回8月"},
     {src: "img/front.png", title: "前"},
     {src:	"img/side.png", title: "横"},
+     //  photoListの中に追加し、画像を指定することで、プログラムに組み込まれるから。
     {src:  "img/sasaki.jpg", title: "佐々木希"}
 ];
 
